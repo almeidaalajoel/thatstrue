@@ -34,7 +34,7 @@ export default function Home() {
             className="flex min-h-screen flex-col items-center justify-center p-24"
         >
             <div id="box" className="border-8 rounded-md p-32">
-                <div id="text" className="text-[200px]">
+                <div id="text" className="text-[180px]">
                     Actually I don&apos;t think that&apos;s true actually
                 </div>
             </div>
